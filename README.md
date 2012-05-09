@@ -6,9 +6,9 @@ This is a simple lab setup for playing around with Twitter Bootstrap
 Quick start
 -----------
 
-Clone this repo, `git clone git@github.com:twitter/bootstrap.git`
+Clone this repo, `git@github.com:henrikreinhold/bootstrap-lab.git`
 
-and then clone the Bootstrap repo `git clone git@github.com:henrikreinhold/bootstrap-lab.git`
+and then clone the Bootstrap repo `git clone git@github.com:twitter/bootstrap.git`
 
 Open ../boostrap-lab/new/profile.html or ../boostrap-lab/new/index.html and start to play.
 Example of current KPerson files could be found in the ../bootstrap/old/ folder.
