@@ -20,7 +20,8 @@ If you intend to tweak the look and feel of boostrap the easiest way is to modif
 and re-build.
 
 Here are the original instructions on how to build
-(copy from [Twitter Boostrap GitHub ReadMe](https://github.com/twitter/bootstrap/))
+(copy from [Twitter Boostrap GitHub ReadMe](https://github.com/twitter/bootstrap/)).
+
 We have included a makefile with convenience methods for working with the Bootstrap library.
 
 + **dependencies**
