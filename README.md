@@ -8,7 +8,7 @@ Quick start
 
 Clone this repo, `git clone git@github.com:twitter/bootstrap.git`
 
-and then clone the Bootstrap repo `git clone git@github.com:twitter/bootstrap.git`
+and then clone the Bootstrap repo `git clone git@github.com:henrikreinhold/bootstrap-lab.git`
 
 Open ../boostrap-lab/new/profile.html or ../boostrap-lab/new/index.html and start to play.
 Example of current KPerson files could be found in the ../bootstrap/old/ folder.
